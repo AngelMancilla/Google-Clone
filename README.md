@@ -19,7 +19,7 @@ No dependencies required! This is a vanilla JavaScript project that runs directl
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AngelMancilla/Google-Clone
    cd GoogleClone
    ```
 
